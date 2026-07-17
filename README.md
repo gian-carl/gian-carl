@@ -67,33 +67,25 @@
 
 ---
 
-##  GitHub Analytics
+## GitHub & Coding Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=gian-carl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff"/></td>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=gian-carl&theme=tokyonight&hide_border=true&background=0d1117"/></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian-carl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EricJamesSonio&theme=radical" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EricJamesSonio&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EricJamesSonio&theme=radical" height="160" />
+</p>
 
-##  Contribution Graph
+<p align="center">
+  <!-- WakaTime Card -->
+  <a href="https://wakatime.com/@Ejdev" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gian-carl&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-</div>
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gian-carl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</div>
 
 ---
 
