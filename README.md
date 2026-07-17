@@ -71,21 +71,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EricJamesSonio&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gian-carl&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EricJamesSonio&theme=radical" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EricJamesSonio&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gian-carl&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gian-carl&theme=radical" height="160" />
 </p>
-
-<p align="center">
-  <!-- WakaTime Card -->
-  <a href="https://wakatime.com/@Ejdev" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
-  </a>
-</p>
-
 
 ---
 
